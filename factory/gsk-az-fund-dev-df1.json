@@ -1,0 +1,9 @@
+{
+	"name": "gsk-az-fund-dev-df1",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2e670bd-bf81-45ab-9609-f339c973e043",
+		"tenantId": "9bfd59d9-717e-4165-afeb-c11171425f67"
+	}
+}
